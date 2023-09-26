@@ -1,0 +1,13 @@
+.container {
+  display: inline-flex;
+   flex-direction:row;
+   position:inline-flex;
+}
+.card{
+
+margin-left:150px;
+margin-top:190px;
+}
+body{
+    background-color:indianred;
+} 
